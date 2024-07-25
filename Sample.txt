@@ -1,0 +1,6 @@
+
+
+
+
+username,firstname,lastname,emailAddress,date_of_birth,school_registration_number,image_path
+Josh,Jassim,Kasule,jassimkasule@gmail.com,2024-04-24,run234,yyyy
